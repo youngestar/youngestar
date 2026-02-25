@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&letterSpacing=light&duration=4000&pause=800&color=008C8C&vCenter=true&multiline=true&repeat=false&width=435&height=70&lines=Hi+there+%F0%9F%91%8B;It's+Youngestar)](https://git.io/typing-svg)
 <hr style="height: 4px;">
 
-**My most use language**
+<!-- **My most use language**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngestar)](https://github.com/youngestar/github-readme-stats)
 
+ -->
 ___
 
 **Things I code with**
