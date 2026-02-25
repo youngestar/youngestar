@@ -3,7 +3,7 @@
 
 **My most use language**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngestar&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngestar&layout=donut&theme=radical)
 
 ___
 
