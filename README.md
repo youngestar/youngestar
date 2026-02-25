@@ -3,7 +3,7 @@
 
 **My most use language**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngestar)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngestar)](https://github.com/youngestar/github-readme-stats)
 
 ___
 
